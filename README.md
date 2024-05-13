@@ -38,16 +38,11 @@ This project is a simple web-based stopwatch application. Users can start, pause
 
 **Credits:**
 
-- **Author:** [Your Name/Username]
+- **Author:** ABINASH SUARA
 - [Stopwatch](https://abinashsuara.github.io/Stopwatch/)
 
 ---
 
-**License:**
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this code for any purpose.
-
----
 
 Feel free to customize and expand upon this project as needed. Happy timing!
 
