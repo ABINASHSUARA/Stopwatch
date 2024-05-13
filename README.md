@@ -39,7 +39,7 @@ This project is a simple web-based stopwatch application. Users can start, pause
 **Credits:**
 
 - **Author:** [Your Name/Username]
-- **GitHub Repository:** [Stopwatch](https://github.com/your-username/stopwatch-app)
+- [Stopwatch](https://abinashsuara.github.io/Stopwatch/)
 
 ---
 
